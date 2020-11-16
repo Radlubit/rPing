@@ -1,0 +1,8 @@
+name: rPing
+author: Radlubit
+main: radlubit.main.rPing
+version: 1.2
+commands:
+  rping:
+    description: rPing Main command
+    usage: Error! Use /rping version or /rping reload!
